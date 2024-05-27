@@ -1,0 +1,956 @@
+{
+  "html_attributions": [],
+  "next_page_token": "AUGGfZkLjp8G1uPCwsvYhF1uy2Pf2o8LfMKkmiMh-fhYGIQXzjXpSPajuqn73eDB5dNDknFRuqMvPDevnSB95b-QiaCb2eyCZaER11_QYQwqdHeHXhliDfBKi-5R-wYZebwh9KdefXnSKGP4c3aeJ8Quj-Ibk--7zTbi1eqfSEZvFzh32DCn2djb1FvUqXXlsYJj2MaUnOz04JnTlw5LHc54R2t9Rq9SV2_pxajOmzMHotv1w9aH-r5i6IKZlCoQEb9BOc0_pLdvEUs_K0_1nwTZ6ZzyHI0WVfc1UtHMAcV67eksZoQBkvCPycKHI8Jqg4MuTGu1fHZEITUqYecF7YId6Dk0O1_ezi2tu9MdzlLMQUqMso87JMDni81xs3Gm7ta0hYUmLEoPrpKrDjOoV77vpqVUasjibKJsRP1KUWrY0k2S",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": -34.6036844,
+          "lng": -58.3815591
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.52654636106313,
+            "lng": -58.33514472475672
+          },
+          "southwest": {
+            "lat": -34.70510112811848,
+            "lng": -58.53145220760162
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Buenos Aires",
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101877320806615987419\">Romulo Soares Miranda</a>"
+          ],
+          "photo_reference": "AUGGfZnQ8-OjYwVTNN3gO6k1fYFh2oBclFdBIX1VuCwWr81Ssu0vFZQgGZpeTbAfV1azP4xishFnAirSpqAJgkVxywYormwGdsF7jdku5IctZFhSfrOtbjxEFnNs9f9yKw_6lJEdM8erC8G220i9fNIji0Ky8JpBm6dhFj6FT247eA9zczdR",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJvQz5TjvKvJURh47oiC6Bs6A",
+      "reference": "ChIJvQz5TjvKvJURh47oiC6Bs6A",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Buenos Aires"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.58222219999999,
+          "lng": -58.44305559999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.58082821970849,
+            "lng": -58.44165686970849
+          },
+          "southwest": {
+            "lat": -34.58352618029149,
+            "lng": -58.4443548302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Atenea Apartments & Suites",
+      "photos": [
+        {
+          "height": 3006,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103548477867820081678\">Maxi</a>"
+          ],
+          "photo_reference": "AUGGfZmHTsti17mo7gu_zTdcDjJI3Vs5sZXsKnIl3lcWpxGJ_U2iU9Y_UmeDu95qM_X6I85LGAeSl2eptoxjTqADJp-xkD5y3FkxkMO8QdA7I22XBJ42wnl5ZWBwwoj43i14Od-MjtCQaXWq9wwJWBubK0bqg_7cQuM7KmujfjmfUc7fdR8",
+          "width": 5344
+        }
+      ],
+      "place_id": "ChIJAXtn-Oy1vJUR3JfYK91UumM",
+      "plus_code": {
+        "compound_code": "CH94+4Q Buenos Aires, Argentina",
+        "global_code": "48Q3CH94+4Q"
+      },
+      "rating": 3.3,
+      "reference": "ChIJAXtn-Oy1vJUR3JfYK91UumM",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 103,
+      "vicinity": "Jos\u00e9 A. Cabrera 6054"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5821327,
+          "lng": -58.4390678
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5807453697085,
+            "lng": -58.43767426970849
+          },
+          "southwest": {
+            "lat": -34.58344333029149,
+            "lng": -58.44037223029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Home Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102983458285482287219\">Home Hotel</a>"
+          ],
+          "photo_reference": "AUGGfZnkTLy97xiGtVlbWM6_GplEgqD1KX1jRqfZiz5OyVHQ81R590LXdLFMQiMXi5DlDzbAaCrm5iXrRPF5ooXKFONt_C8bPtueQ4Qz3A6bYxR88fiE-zbLQ9Y9XbFGecxJk_0ETRYgiQfYgxVblUMWGZkpKQfn9KTAKghtcF3mjijL_DuB",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJmfrt3JK1vJURcX3SLLqJ0sM",
+      "plus_code": {
+        "compound_code": "CH96+49 Buenos Aires, Argentina",
+        "global_code": "48Q3CH96+49"
+      },
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "ChIJmfrt3JK1vJURcX3SLLqJ0sM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "spa",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1043,
+      "vicinity": "Honduras 5860"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5789164,
+          "lng": -58.4353828
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5774948697085,
+            "lng": -58.43395201970849
+          },
+          "southwest": {
+            "lat": -34.58019283029149,
+            "lng": -58.43664998029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Fierro Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114785405485914793380\">Fierro Hotel Buenos Aires</a>"
+          ],
+          "photo_reference": "AUGGfZmg6uDjvAbe7w7A-A_0OjmIxvROcbm9S4WhIPR0pyxJPGruG21NFFC_Bhf79Ss5gMpTLeCNluEl4E9ZnedJN1FvRpyPJAjiU9L_NYNtJxdnFIK8EKQMB2Tah_2IA5bJqvynqsmgJyk3vrQJTmpIgq276zzkxgHekq11IwxMlkfWvb0E",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJi41175O1vJURcuQPIZ5EZgM",
+      "plus_code": {
+        "compound_code": "CHC7+CR Buenos Aires, Argentina",
+        "global_code": "48Q3CHC7+CR"
+      },
+      "rating": 4.7,
+      "reference": "ChIJi41175O1vJURcuQPIZ5EZgM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 822,
+      "vicinity": "Soler 5862"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.57948919999999,
+          "lng": -58.4389844
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5781151197085,
+            "lng": -58.43752751970848
+          },
+          "southwest": {
+            "lat": -34.58081308029149,
+            "lng": -58.4402254802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Fabric Sushi Palermo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 854,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102559351364900539655\">Eduardo Avila</a>"
+          ],
+          "photo_reference": "AUGGfZlbwGk4-Eo2MVlwRpd750qf1fOV5Q570yOJZjH-23BM63pREucxg6t92w5ly7IDCr10fAmUTMDxe2U7TdYGKjFWOEQ9OLRZIoXOpWGmMpYdRRzfwoTjdU5ZeOk2RBHBXaRdf9TjVOZLNjYT5RBjMioCgVE_YNBwH__cSP6xWy496R4",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJ7c1iXZO1vJUR9MI7kJew47g",
+      "plus_code": {
+        "compound_code": "CHC6+6C Buenos Aires, Argentina",
+        "global_code": "48Q3CHC6+6C"
+      },
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "ChIJ7c1iXZO1vJUR9MI7kJew47g",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5992,
+      "vicinity": "Costa Rica 6000"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5818492,
+          "lng": -58.44160559999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5805263697085,
+            "lng": -58.44022121970849
+          },
+          "southwest": {
+            "lat": -34.5832243302915,
+            "lng": -58.4429191802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Luxury Duplex",
+      "place_id": "ChIJW9SB5-y1vJUR2kw7PglAdxY",
+      "plus_code": {
+        "compound_code": "CH95+79 Buenos Aires, Argentina",
+        "global_code": "48Q3CH95+79"
+      },
+      "reference": "ChIJW9SB5-y1vJUR2kw7PglAdxY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Ar\u00e9valo 1596 1D"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5750257,
+          "lng": -58.4399019
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5736307197085,
+            "lng": -58.43862131970849
+          },
+          "southwest": {
+            "lat": -34.5763286802915,
+            "lng": -58.44131928029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Belgrano Hostel",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109469393868045352374\">Harold Chicharito</a>"
+          ],
+          "photo_reference": "AUGGfZngyqKlBAKa7vUxlUhSIcbiQ172fRHJXEhAupUhSVQ_EHDg5IDrKCqVykzYrBTNDKQwVpWkbbVVkc9QKLben6pmM9JF5bAoX9kiiyCXujzDksoi7C7fMYIBbvk7z-pPVAJKh4L1igOIkuB4FAbuPAbm-K7aYWLLrlnjQAieXl20-mH3",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJx_r347-1vJURsTaFjyPdmsc",
+      "plus_code": {
+        "compound_code": "CHF6+X2 Buenos Aires, Argentina",
+        "global_code": "48Q3CHF6+X2"
+      },
+      "rating": 3.8,
+      "reference": "ChIJx_r347-1vJURsTaFjyPdmsc",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 69,
+      "vicinity": "Santos Dumont 2570"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5773672,
+          "lng": -58.4392644
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5759724197085,
+            "lng": -58.43786711970849
+          },
+          "southwest": {
+            "lat": -34.5786703802915,
+            "lng": -58.4405650802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Quartier Hollywood",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1102,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114548037972121081658\">Quartier Hollywood</a>"
+          ],
+          "photo_reference": "AUGGfZmLlLY5gkVGNCpwNA_q9q_HbdeCkPukSJaAfae0gUUEx02xV54LzwBbiHOSYH2xa7lA-29uQrWHFl39zX6c1XTnAoRztz0yZ7aCWCWqdFElLvt7iROuDnr7tl7zR0L-W3UK-U0MdN1k08PmWl5e2Z2DxMPRvxnxur8pf76yXqaLG1cv",
+          "width": 1654
+        }
+      ],
+      "place_id": "ChIJ6c292ji1vJURguPlbb-hWoQ",
+      "plus_code": {
+        "compound_code": "CHF6+37 Buenos Aires, Argentina",
+        "global_code": "48Q3CHF6+37"
+      },
+      "rating": 5,
+      "reference": "ChIJ6c292ji1vJURguPlbb-hWoQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "Ciudad Autonoma de Buenos Aires Ciudad Aut\u00f3noma de Buenos Aires AR, Amen\u00e1bar 30, AIB"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5797922,
+          "lng": -58.4414921
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5784795197085,
+            "lng": -58.44009041970849
+          },
+          "southwest": {
+            "lat": -34.5811774802915,
+            "lng": -58.4427883802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+      "name": "Usos y Costumbres",
+      "place_id": "ChIJ0QT4oOy1vJUR3zBpOTO_W_s",
+      "plus_code": {
+        "compound_code": "CHC5+3C Buenos Aires, Argentina",
+        "global_code": "48Q3CHC5+3C"
+      },
+      "reference": "ChIJ0QT4oOy1vJUR3zBpOTO_W_s",
+      "scope": "GOOGLE",
+      "types": [
+        "parking",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Dorrego 1916"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5822953,
+          "lng": -58.4425611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5809835697085,
+            "lng": -58.44125111970848
+          },
+          "southwest": {
+            "lat": -34.58368153029149,
+            "lng": -58.4439490802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sony Music Entertainment Argentina S.A. de C.V.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116124257313257031654\">Ricky_ Poloni</a>"
+          ],
+          "photo_reference": "AUGGfZkVXRV7Si4yCpXgjt97rOy3mSTbTVoU-XZbUnLJL_3JjdzOy3WAITGUJTBIaeOioqU906AhxdvKioOPbzaJAGXu_fzHFVdw5sCjOGbl32utHdUC0Pve8TgOpDCx9FpVEXbd92Kw4YwVH-21vlLw7IIz2KQqhBOyd48P1Q6XaqBLPAy_",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJOUwl_Oy1vJURskkT802sSFU",
+      "plus_code": {
+        "compound_code": "CH94+3X Buenos Aires, Argentina",
+        "global_code": "48Q3CH94+3X"
+      },
+      "rating": 4.4,
+      "reference": "ChIJOUwl_Oy1vJURskkT802sSFU",
+      "scope": "GOOGLE",
+      "types": [
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 635,
+      "vicinity": "Jos\u00e9 A. Cabrera 6027"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5759648,
+          "lng": -58.440771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5746692197085,
+            "lng": -58.43947576970849
+          },
+          "southwest": {
+            "lat": -34.5773671802915,
+            "lng": -58.44217373029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "DIRECT MARKETING FOCUS S. A.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111768534804888616360\">Juan Pablo Romero</a>"
+          ],
+          "photo_reference": "AUGGfZkAOmYrUxGCoZvfLMN5FF-xJlJLF7eTMlHHxBWePNMdJ42HjPn4FYjLf2CFIZVJ98MsA7xJ3tnOXkKQlbrHkxbeppCHLk9SDRaX-BUEsjzoZw21nCpaSai1NEGn9FMWN9C2O7HXfNfmZlkiSkftUFpwIXEC0Qffz8osdq60EgmMESHP",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ5Wcsxuq1vJURZjPTm-SXsmw",
+      "plus_code": {
+        "compound_code": "CHF5+JM Buenos Aires, Argentina",
+        "global_code": "48Q3CHF5+JM"
+      },
+      "rating": 2.8,
+      "reference": "ChIJ5Wcsxuq1vJURZjPTm-SXsmw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 46,
+      "vicinity": "Amen\u00e1bar 191"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": -34.57961,
+          "lng": -58.4412446
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5782859697085,
+            "lng": -58.43986021970849
+          },
+          "southwest": {
+            "lat": -34.5809839302915,
+            "lng": -58.4425581802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "La Despensa Ingredientes Creativos SRL",
+      "permanently_closed": true,
+      "place_id": "ChIJWeCciTLBvJURE-3WTNI6hpE",
+      "plus_code": {
+        "compound_code": "CHC5+5G Buenos Aires, Argentina",
+        "global_code": "48Q3CHC5+5G"
+      },
+      "rating": 5,
+      "reference": "ChIJWeCciTLBvJURE-3WTNI6hpE",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Dorrego 1940"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.582201,
+          "lng": -58.444201
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5811183697085,
+            "lng": -58.44329676970849
+          },
+          "southwest": {
+            "lat": -34.58381633029149,
+            "lng": -58.4459947302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Mercado de las Pulgas",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102078768126429851559\">Claudia de los Angeles Molina</a>"
+          ],
+          "photo_reference": "AUGGfZn4mkUpuQM2tTTo1CjGMhHFmbPgV_zlC2oXEjTiZzKwomkakthMOoXkKjU3DC93JLDEN1zN9AMurgfhWE6A9ZrbgeC4wR0PQJBoevHFb77Dk9fSDPuvPDRUG02Sa7T940ve1zg1cd1Aa4uemlfRVFnj3O956fw3yC7Xiut_-cbNWfFh",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJK6ZIOey1vJURRsDwx3S4Bwk",
+      "plus_code": {
+        "compound_code": "CH94+48 Buenos Aires, Argentina",
+        "global_code": "48Q3CH94+48"
+      },
+      "rating": 4.1,
+      "reference": "ChIJK6ZIOey1vJURRsDwx3S4Bwk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13058,
+      "vicinity": "Avenida Dorrego 1650, Buenos Aires"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5784541,
+          "lng": -58.43907290000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5769381197085,
+            "lng": -58.4379234197085
+          },
+          "southwest": {
+            "lat": -34.5796360802915,
+            "lng": -58.44062138029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sitio Buenos Aires",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100958867055099818761\">Dino Roy Prieto</a>"
+          ],
+          "photo_reference": "AUGGfZn4X6kO6j-9yn_YIoz_WeCMKJGyyhRT0dgAq-A6rgTcmxfN7fV4NckAqI7HgAaeGU3-c6BpmVrlNnffL72YltbJlPRMDUrUZ5awRFzWA6e_Xvr2QxW3Tx0dc4ifwzmTURZBKT5pkRSeqVq0N6YmL36sgIUL9TRXhkBFWjeMC_BSYEOM",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJFxpZ94y1vJURD6TnQWeVLj8",
+      "plus_code": {
+        "compound_code": "CHC6+J9 Buenos Aires, Argentina",
+        "global_code": "48Q3CHC6+J9"
+      },
+      "rating": 4.5,
+      "reference": "ChIJFxpZ94y1vJURD6TnQWeVLj8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 877,
+      "vicinity": "Dorrego 2141"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.58212350000001,
+          "lng": -58.4387626
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.58080131970851,
+            "lng": -58.43744466970848
+          },
+          "southwest": {
+            "lat": -34.5834992802915,
+            "lng": -58.44014263029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Influencer Model Argentina",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102758303400024881418\">Influencer Model Argentina</a>"
+          ],
+          "photo_reference": "AUGGfZn9PxEdxS6ClkUL4POWbpgr3fWQ19v8EAeSfeX2foCf8Ni74SCeB0Z0cASDrn0yCZ6gh-sG9j7Q4unih6RAwIU4DVjtXpiGOU0PAlj59RhrZH7jY25QuqKkg0yuCBIZnJuptD5V_8NtpNakLeij8BXmPsv8UpPAq0pq2LVdsni9IVaJ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ5Vwy3ZK1vJURms7jAEhDqyo",
+      "plus_code": {
+        "compound_code": "CH96+5F Buenos Aires, Argentina",
+        "global_code": "48Q3CH96+5F"
+      },
+      "rating": 4,
+      "reference": "ChIJ5Vwy3ZK1vJURms7jAEhDqyo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Honduras 5849"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5826006,
+          "lng": -58.4411882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5816107697085,
+            "lng": -58.4399237697085
+          },
+          "southwest": {
+            "lat": -34.5843087302915,
+            "lng": -58.44262173029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "St. Xavier's College",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101260227370224362606\">Jesica Lichtensztein</a>"
+          ],
+          "photo_reference": "AUGGfZl5RdNXOYQz-pICQiIxeX_BzCh7ev98F3N2f8I9IIYOSuvThT63l-mgrpo6rx36c5tMDHy0I2cXgtxbJxOVGm6cXAbtbhV42lTFHJnLv1UwsI8BoFz_gq6M5J2YcsaYDR3OgDO5epiN15jHu763bKAzgENsQmwrlDZafB_VDAPzzHiO",
+          "width": 2252
+        }
+      ],
+      "place_id": "ChIJf-c2P-21vJUR5jP7U61HR3w",
+      "plus_code": {
+        "compound_code": "CH85+XG Buenos Aires, Argentina",
+        "global_code": "48Q3CH85+XG"
+      },
+      "rating": 4.3,
+      "reference": "ChIJf-c2P-21vJUR5jP7U61HR3w",
+      "scope": "GOOGLE",
+      "types": [
+        "primary_school",
+        "school",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "Jos\u00e9 A. Cabrera 5901"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5795189,
+          "lng": -58.4390506
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5782654697085,
+            "lng": -58.4376547197085
+          },
+          "southwest": {
+            "lat": -34.5809634302915,
+            "lng": -58.44035268029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ogilvy Argentina",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104808682992332467922\">Federico Andino</a>"
+          ],
+          "photo_reference": "AUGGfZlghTluTCo7Pj5S13B2cFjyUA7YtJbMZ8tPrgnkAdTDx8aP65L4g1jY9U0wLOqVbpvGqU_H77lowvUj_4QM8NQ1o52EPM7A8pna-NQ5axLehcoDurBgLeyBNUt_vu-IGyVi7BO8wj6lWcP5d-4ikUkz7wBdxQ4K4uebacDJygyg9m2g",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJsy4iXZO1vJUROeGItpUnGtQ",
+      "plus_code": {
+        "compound_code": "CHC6+59 Buenos Aires, Argentina",
+        "global_code": "48Q3CHC6+59"
+      },
+      "rating": 4.3,
+      "reference": "ChIJsy4iXZO1vJUROeGItpUnGtQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "Ar\u00e9valo 1880"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.57830839999999,
+          "lng": -58.4394122
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.57689926970849,
+            "lng": -58.43813506970849
+          },
+          "southwest": {
+            "lat": -34.57959723029149,
+            "lng": -58.4408330302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Spare Rooms Buenos Aires - Habitaciones en alquiler en casas de familia y departamentos compartidos en Buenos Aires.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108559314435429712203\">Spare Rooms Buenos Aires - Habitaciones en alquiler en casas de familia y departamentos compartidos en Buenos Aires.</a>"
+          ],
+          "photo_reference": "AUGGfZmN4DiDdY9WkYg5eG4CZcDq4QKB6ceMu8Izm9wSlWGaFdBceWmi9HUTSBw818P0afvWEqxTVfAMEVIuAC_q5-yNL7chuOpFQ9BtqmzNXISgzuOjeDaKFdwgl_zoWW2_7bR7W8KQPhjQYCdrvAwN1A_dfYo6odBxdu21rM5TWaFnyOVu",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJURgER5a1vJURFa8q8W3lhu0",
+      "plus_code": {
+        "compound_code": "CHC6+M6 Buenos Aires, Argentina",
+        "global_code": "48Q3CHC6+M6"
+      },
+      "rating": 4.3,
+      "reference": "ChIJURgER5a1vJURFa8q8W3lhu0",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 90,
+      "vicinity": "Dorrego 2133"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": -34.5793964,
+          "lng": -58.43898710000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5780124697085,
+            "lng": -58.4375978197085
+          },
+          "southwest": {
+            "lat": -34.5807104302915,
+            "lng": -58.44029578029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Initiative Argentina",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106912507351849218338\">Santiago Francisco Venneri</a>"
+          ],
+          "photo_reference": "AUGGfZknBvqpgI-nLifE9gS4h8CJ4cd6pXfMv7WZhYcuuWhbDLKUr3T7btz1Y-IWY24WPfUmgWyoIZp0nUi-Pt5WGLUtVl9C4b14bSie2WMhY7ysQMIkXFtVBPh7Ahy4WibSwpitgr46l-wvJ7qpMrLvYY5u6jnaTmVMO6d08Yq6WnL1K_kj",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJN92zX7XKvJURyikma54Ij6Y",
+      "plus_code": {
+        "compound_code": "CHC6+6C Buenos Aires, Argentina",
+        "global_code": "48Q3CHC6+6C"
+      },
+      "rating": 5,
+      "reference": "ChIJN92zX7XKvJURyikma54Ij6Y",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Costa Rica 6012"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -34.5780655,
+          "lng": -58.4265317
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -34.5490119771075,
+            "lng": -58.39298649435829
+          },
+          "southwest": {
+            "lat": -34.59785472473616,
+            "lng": -58.44904437613813
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Palermo",
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101877320806615987419\">Romulo Soares Miranda</a>"
+          ],
+          "photo_reference": "AUGGfZnPzUw0OE8K-KEQCOw6XI6pylYHrsJSx_79Sq43Q8i_QLWBhibXYOR0UUljRCLcbwmQfkGER7DgUTHLGixOydJXnMdSgpOVFexAdnHOlQqiQp2n6488YUtndXijpa1rUpQs1iGxt9EntyjscTOLUFIdwNB0ZypebxGlNeq1FPjW20n1",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJM7ked5y1vJURaYzXlrUTMWs",
+      "reference": "ChIJM7ked5y1vJURaYzXlrUTMWs",
+      "scope": "GOOGLE",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "vicinity": "Palermo"
+    }
+  ],
+  "status": "OK"
+}

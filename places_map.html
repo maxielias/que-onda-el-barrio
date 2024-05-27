@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_43043a0c3875c4b269fa2bcd2e1af055 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_43043a0c3875c4b269fa2bcd2e1af055" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_43043a0c3875c4b269fa2bcd2e1af055 = L.map(
+                "map_43043a0c3875c4b269fa2bcd2e1af055",
+                {
+                    center: [-34.57921486683165, -58.4407001669448],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_edeaf920860b4711a5db398ed29ec54d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_edeaf920860b4711a5db398ed29ec54d.addTo(map_43043a0c3875c4b269fa2bcd2e1af055);
+        
+    
+            var marker_cluster_66b806f769833e1af6f2ba02bfc453c4 = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            var marker_c90d87060463a71717b3c77bd7fd597a = L.marker(
+                [-34.6036844, -58.3815591],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_33b43fba273e3d0fd08ea4e6b9496993 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_c90d87060463a71717b3c77bd7fd597a.setIcon(icon_33b43fba273e3d0fd08ea4e6b9496993);
+        
+    
+        var popup_316c221d4a950d41b164580a9ff8b3b4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e26b09f6e5da23905d3b7cc51dcf709b = $(`<div id="html_e26b09f6e5da23905d3b7cc51dcf709b" style="width: 100.0%; height: 100.0%;">Buenos Aires<br>Rating: None<br>Buenos Aires</div>`)[0];
+                popup_316c221d4a950d41b164580a9ff8b3b4.setContent(html_e26b09f6e5da23905d3b7cc51dcf709b);
+            
+        
+
+        marker_c90d87060463a71717b3c77bd7fd597a.bindPopup(popup_316c221d4a950d41b164580a9ff8b3b4)
+        ;
+
+        
+    
+    
+            var marker_4f0b3e3ccfbc802787c9721e0495e197 = L.marker(
+                [-34.58222219999999, -58.44305559999999],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_b94c9185e9673ea1bb4e6386929facdc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_4f0b3e3ccfbc802787c9721e0495e197.setIcon(icon_b94c9185e9673ea1bb4e6386929facdc);
+        
+    
+        var popup_0aa2d1fca2726edb2f9385de65f2a21e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fd39f3a2430372a6803fffafd8cd4053 = $(`<div id="html_fd39f3a2430372a6803fffafd8cd4053" style="width: 100.0%; height: 100.0%;">Atenea Apartments & Suites<br>Rating: 3.3<br>José A. Cabrera 6054</div>`)[0];
+                popup_0aa2d1fca2726edb2f9385de65f2a21e.setContent(html_fd39f3a2430372a6803fffafd8cd4053);
+            
+        
+
+        marker_4f0b3e3ccfbc802787c9721e0495e197.bindPopup(popup_0aa2d1fca2726edb2f9385de65f2a21e)
+        ;
+
+        
+    
+    
+            var marker_437efc9c1165cacdd71656d36229dcfc = L.marker(
+                [-34.5821327, -58.4390678],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_0232b2e116eb7a8dcc8edfa3ae4871b2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_437efc9c1165cacdd71656d36229dcfc.setIcon(icon_0232b2e116eb7a8dcc8edfa3ae4871b2);
+        
+    
+        var popup_aea3ef6660e359bdca22b4e1b4508712 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5d59fdb1e84eac54adf7e0f2e90006a5 = $(`<div id="html_5d59fdb1e84eac54adf7e0f2e90006a5" style="width: 100.0%; height: 100.0%;">Home Hotel<br>Rating: 4.5<br>Honduras 5860</div>`)[0];
+                popup_aea3ef6660e359bdca22b4e1b4508712.setContent(html_5d59fdb1e84eac54adf7e0f2e90006a5);
+            
+        
+
+        marker_437efc9c1165cacdd71656d36229dcfc.bindPopup(popup_aea3ef6660e359bdca22b4e1b4508712)
+        ;
+
+        
+    
+    
+            var marker_b9d4a9597f6ec52ba68012045264c715 = L.marker(
+                [-34.5789164, -58.4353828],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_ff197bc2e62a1c66d1e19c5b6b000200 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_b9d4a9597f6ec52ba68012045264c715.setIcon(icon_ff197bc2e62a1c66d1e19c5b6b000200);
+        
+    
+        var popup_eaa7701bc063511fedcef5bf93744e4b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c13751ce2398a38a75e660c401b2ee57 = $(`<div id="html_c13751ce2398a38a75e660c401b2ee57" style="width: 100.0%; height: 100.0%;">Fierro Hotel<br>Rating: 4.7<br>Soler 5862</div>`)[0];
+                popup_eaa7701bc063511fedcef5bf93744e4b.setContent(html_c13751ce2398a38a75e660c401b2ee57);
+            
+        
+
+        marker_b9d4a9597f6ec52ba68012045264c715.bindPopup(popup_eaa7701bc063511fedcef5bf93744e4b)
+        ;
+
+        
+    
+    
+            var marker_dd517ab469f7e93317db424c2e6f52f5 = L.marker(
+                [-34.57948919999999, -58.4389844],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_c066049af4dbe7d895c8e5259a62b3f5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_dd517ab469f7e93317db424c2e6f52f5.setIcon(icon_c066049af4dbe7d895c8e5259a62b3f5);
+        
+    
+        var popup_ae35cd517f4a14a70d413c552a7cdbec = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_20ccab8c196c6e8109279d85f9d82c84 = $(`<div id="html_20ccab8c196c6e8109279d85f9d82c84" style="width: 100.0%; height: 100.0%;">Fabric Sushi Palermo<br>Rating: 4.5<br>Costa Rica 6000</div>`)[0];
+                popup_ae35cd517f4a14a70d413c552a7cdbec.setContent(html_20ccab8c196c6e8109279d85f9d82c84);
+            
+        
+
+        marker_dd517ab469f7e93317db424c2e6f52f5.bindPopup(popup_ae35cd517f4a14a70d413c552a7cdbec)
+        ;
+
+        
+    
+    
+            var marker_d79edbb0a834543e0962d0edf145ad6c = L.marker(
+                [-34.5818492, -58.44160559999999],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_6155cc76d4f968163c8112971789add8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_d79edbb0a834543e0962d0edf145ad6c.setIcon(icon_6155cc76d4f968163c8112971789add8);
+        
+    
+        var popup_6bcd13b584a44c1a40e2c7af2195d3b0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_149721397ab5456d2c3f91747ed121d7 = $(`<div id="html_149721397ab5456d2c3f91747ed121d7" style="width: 100.0%; height: 100.0%;">Luxury Duplex<br>Rating: None<br>Arévalo 1596 1D</div>`)[0];
+                popup_6bcd13b584a44c1a40e2c7af2195d3b0.setContent(html_149721397ab5456d2c3f91747ed121d7);
+            
+        
+
+        marker_d79edbb0a834543e0962d0edf145ad6c.bindPopup(popup_6bcd13b584a44c1a40e2c7af2195d3b0)
+        ;
+
+        
+    
+    
+            var marker_0df1b4336effad69e3b39143a86d41b5 = L.marker(
+                [-34.5750257, -58.4399019],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_5659a571bf9cc105012cf08bfa7a9b8b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_0df1b4336effad69e3b39143a86d41b5.setIcon(icon_5659a571bf9cc105012cf08bfa7a9b8b);
+        
+    
+        var popup_e2e32bd367fece409c51cab1601f9216 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d926f2a96380423a47a51d3348875122 = $(`<div id="html_d926f2a96380423a47a51d3348875122" style="width: 100.0%; height: 100.0%;">Belgrano Hostel<br>Rating: 3.8<br>Santos Dumont 2570</div>`)[0];
+                popup_e2e32bd367fece409c51cab1601f9216.setContent(html_d926f2a96380423a47a51d3348875122);
+            
+        
+
+        marker_0df1b4336effad69e3b39143a86d41b5.bindPopup(popup_e2e32bd367fece409c51cab1601f9216)
+        ;
+
+        
+    
+    
+            var marker_ab1571c5ab60c879c0ff070ce340f221 = L.marker(
+                [-34.5773672, -58.4392644],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_db6b463f55e8da4c6dccd69ac14c5a2d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ab1571c5ab60c879c0ff070ce340f221.setIcon(icon_db6b463f55e8da4c6dccd69ac14c5a2d);
+        
+    
+        var popup_ea3f193eecab7110dca531312bcdb85c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1c919be910623118812240a869841956 = $(`<div id="html_1c919be910623118812240a869841956" style="width: 100.0%; height: 100.0%;">Quartier Hollywood<br>Rating: 5<br>Ciudad Autonoma de Buenos Aires Ciudad Autónoma de Buenos Aires AR, Amenábar 30, AIB</div>`)[0];
+                popup_ea3f193eecab7110dca531312bcdb85c.setContent(html_1c919be910623118812240a869841956);
+            
+        
+
+        marker_ab1571c5ab60c879c0ff070ce340f221.bindPopup(popup_ea3f193eecab7110dca531312bcdb85c)
+        ;
+
+        
+    
+    
+            var marker_9397057ce976af88c9437b0d9b1125c3 = L.marker(
+                [-34.5797922, -58.4414921],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_a4cc2b216803a6487f83e1dfd0218811 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_9397057ce976af88c9437b0d9b1125c3.setIcon(icon_a4cc2b216803a6487f83e1dfd0218811);
+        
+    
+        var popup_a4f105dbad2cc180bdd7193e3e61302d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_51d0739f2b2a45c05b165a02b84f5ce2 = $(`<div id="html_51d0739f2b2a45c05b165a02b84f5ce2" style="width: 100.0%; height: 100.0%;">Usos y Costumbres<br>Rating: None<br>Dorrego 1916</div>`)[0];
+                popup_a4f105dbad2cc180bdd7193e3e61302d.setContent(html_51d0739f2b2a45c05b165a02b84f5ce2);
+            
+        
+
+        marker_9397057ce976af88c9437b0d9b1125c3.bindPopup(popup_a4f105dbad2cc180bdd7193e3e61302d)
+        ;
+
+        
+    
+    
+            var marker_7536995cb9d59e678b6fa09320fdf9d1 = L.marker(
+                [-34.5822953, -58.4425611],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_4dbfc58abda8dfa63de8fcf5c6a7601a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_7536995cb9d59e678b6fa09320fdf9d1.setIcon(icon_4dbfc58abda8dfa63de8fcf5c6a7601a);
+        
+    
+        var popup_43d05f34c7b8851beb42ad7d5c2e3f8a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0ed030972742fb59b7ea6ab06f1543c0 = $(`<div id="html_0ed030972742fb59b7ea6ab06f1543c0" style="width: 100.0%; height: 100.0%;">Sony Music Entertainment Argentina S.A. de C.V.<br>Rating: 4.4<br>José A. Cabrera 6027</div>`)[0];
+                popup_43d05f34c7b8851beb42ad7d5c2e3f8a.setContent(html_0ed030972742fb59b7ea6ab06f1543c0);
+            
+        
+
+        marker_7536995cb9d59e678b6fa09320fdf9d1.bindPopup(popup_43d05f34c7b8851beb42ad7d5c2e3f8a)
+        ;
+
+        
+    
+    
+            var marker_a059a2573473b497320fc52ff28b0147 = L.marker(
+                [-34.5759648, -58.440771],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_361dbda97400e224a44b13277dc2a8e6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_a059a2573473b497320fc52ff28b0147.setIcon(icon_361dbda97400e224a44b13277dc2a8e6);
+        
+    
+        var popup_a7b960a533bd35e44de8b21e69f8b5a8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1e06c18ea7efc8a7e2958542d8ad3b9a = $(`<div id="html_1e06c18ea7efc8a7e2958542d8ad3b9a" style="width: 100.0%; height: 100.0%;">DIRECT MARKETING FOCUS S. A.<br>Rating: 2.8<br>Amenábar 191</div>`)[0];
+                popup_a7b960a533bd35e44de8b21e69f8b5a8.setContent(html_1e06c18ea7efc8a7e2958542d8ad3b9a);
+            
+        
+
+        marker_a059a2573473b497320fc52ff28b0147.bindPopup(popup_a7b960a533bd35e44de8b21e69f8b5a8)
+        ;
+
+        
+    
+    
+            var marker_bd7497b27187744384c14f8e59762814 = L.marker(
+                [-34.57961, -58.4412446],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_548e23d1ead4abb7fcd62f43f4375722 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_bd7497b27187744384c14f8e59762814.setIcon(icon_548e23d1ead4abb7fcd62f43f4375722);
+        
+    
+        var popup_43e843209f03e581eb5d16dea05a9a31 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eb147983c1ce237a6846b6dec7564533 = $(`<div id="html_eb147983c1ce237a6846b6dec7564533" style="width: 100.0%; height: 100.0%;">La Despensa Ingredientes Creativos SRL<br>Rating: 5<br>Dorrego 1940</div>`)[0];
+                popup_43e843209f03e581eb5d16dea05a9a31.setContent(html_eb147983c1ce237a6846b6dec7564533);
+            
+        
+
+        marker_bd7497b27187744384c14f8e59762814.bindPopup(popup_43e843209f03e581eb5d16dea05a9a31)
+        ;
+
+        
+    
+    
+            var marker_effe6478d418c16571c80fcb9764fd23 = L.marker(
+                [-34.582201, -58.444201],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_393ba2bfe8d0039540964ac67e49c39b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_effe6478d418c16571c80fcb9764fd23.setIcon(icon_393ba2bfe8d0039540964ac67e49c39b);
+        
+    
+        var popup_ddbfd785babf6629ef4bf62fa6efbd47 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4596fca323ffa48ad39ee4da171f17cd = $(`<div id="html_4596fca323ffa48ad39ee4da171f17cd" style="width: 100.0%; height: 100.0%;">Mercado de las Pulgas<br>Rating: 4.1<br>Avenida Dorrego 1650, Buenos Aires</div>`)[0];
+                popup_ddbfd785babf6629ef4bf62fa6efbd47.setContent(html_4596fca323ffa48ad39ee4da171f17cd);
+            
+        
+
+        marker_effe6478d418c16571c80fcb9764fd23.bindPopup(popup_ddbfd785babf6629ef4bf62fa6efbd47)
+        ;
+
+        
+    
+    
+            var marker_15eabf2c1a45c24b543214f9932767d4 = L.marker(
+                [-34.5784541, -58.43907290000001],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_ae71e07909bf2f38e5a9e6837f5f79a0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_15eabf2c1a45c24b543214f9932767d4.setIcon(icon_ae71e07909bf2f38e5a9e6837f5f79a0);
+        
+    
+        var popup_d5ca4d66809a1d62925568c5dc6d4a6f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_710c1484e6b7ba11ec8d9f10c0064455 = $(`<div id="html_710c1484e6b7ba11ec8d9f10c0064455" style="width: 100.0%; height: 100.0%;">Sitio Buenos Aires<br>Rating: 4.5<br>Dorrego 2141</div>`)[0];
+                popup_d5ca4d66809a1d62925568c5dc6d4a6f.setContent(html_710c1484e6b7ba11ec8d9f10c0064455);
+            
+        
+
+        marker_15eabf2c1a45c24b543214f9932767d4.bindPopup(popup_d5ca4d66809a1d62925568c5dc6d4a6f)
+        ;
+
+        
+    
+    
+            var marker_20277836517c94673e4c7ab58211eafe = L.marker(
+                [-34.58212350000001, -58.4387626],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_26e1f4723bcf0ac5a7df13bc255676d9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_20277836517c94673e4c7ab58211eafe.setIcon(icon_26e1f4723bcf0ac5a7df13bc255676d9);
+        
+    
+        var popup_6e1b8ce12646aba507954646add07fb2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4caf2498c28cbaa14d5a9eb8f6ae5021 = $(`<div id="html_4caf2498c28cbaa14d5a9eb8f6ae5021" style="width: 100.0%; height: 100.0%;">Influencer Model Argentina<br>Rating: 4<br>Honduras 5849</div>`)[0];
+                popup_6e1b8ce12646aba507954646add07fb2.setContent(html_4caf2498c28cbaa14d5a9eb8f6ae5021);
+            
+        
+
+        marker_20277836517c94673e4c7ab58211eafe.bindPopup(popup_6e1b8ce12646aba507954646add07fb2)
+        ;
+
+        
+    
+    
+            var marker_cbc6211da2249216bf27877c590df6b2 = L.marker(
+                [-34.5826006, -58.4411882],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_a71bf55e016fee908f116b56066bb3bf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_cbc6211da2249216bf27877c590df6b2.setIcon(icon_a71bf55e016fee908f116b56066bb3bf);
+        
+    
+        var popup_02127804b59c04584577f184d9973b7a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f03f2eb45615bf658b2ddd29e0231e9 = $(`<div id="html_4f03f2eb45615bf658b2ddd29e0231e9" style="width: 100.0%; height: 100.0%;">St. Xavier's College<br>Rating: 4.3<br>José A. Cabrera 5901</div>`)[0];
+                popup_02127804b59c04584577f184d9973b7a.setContent(html_4f03f2eb45615bf658b2ddd29e0231e9);
+            
+        
+
+        marker_cbc6211da2249216bf27877c590df6b2.bindPopup(popup_02127804b59c04584577f184d9973b7a)
+        ;
+
+        
+    
+    
+            var marker_36796895c25ee4dccc0191bff612e966 = L.marker(
+                [-34.5795189, -58.4390506],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_dad8b1b28da49ffcd142442cca1719ae = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_36796895c25ee4dccc0191bff612e966.setIcon(icon_dad8b1b28da49ffcd142442cca1719ae);
+        
+    
+        var popup_ed6a6e58f0bd8aa1a19860b5e67e6760 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_91d769f28d82b4c3a80cd2fa1f4662bc = $(`<div id="html_91d769f28d82b4c3a80cd2fa1f4662bc" style="width: 100.0%; height: 100.0%;">Ogilvy Argentina<br>Rating: 4.3<br>Arévalo 1880</div>`)[0];
+                popup_ed6a6e58f0bd8aa1a19860b5e67e6760.setContent(html_91d769f28d82b4c3a80cd2fa1f4662bc);
+            
+        
+
+        marker_36796895c25ee4dccc0191bff612e966.bindPopup(popup_ed6a6e58f0bd8aa1a19860b5e67e6760)
+        ;
+
+        
+    
+    
+            var marker_f9816051781285af0b35fbe332903de4 = L.marker(
+                [-34.57830839999999, -58.4394122],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_7eef6572f3a1f379d47394860df18f11 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_f9816051781285af0b35fbe332903de4.setIcon(icon_7eef6572f3a1f379d47394860df18f11);
+        
+    
+        var popup_35d74f36d7fcdaa4ec480a1d7b2906f9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_601daa33bc0049e31192732fbabc4941 = $(`<div id="html_601daa33bc0049e31192732fbabc4941" style="width: 100.0%; height: 100.0%;">Spare Rooms Buenos Aires - Habitaciones en alquiler en casas de familia y departamentos compartidos en Buenos Aires.<br>Rating: 4.3<br>Dorrego 2133</div>`)[0];
+                popup_35d74f36d7fcdaa4ec480a1d7b2906f9.setContent(html_601daa33bc0049e31192732fbabc4941);
+            
+        
+
+        marker_f9816051781285af0b35fbe332903de4.bindPopup(popup_35d74f36d7fcdaa4ec480a1d7b2906f9)
+        ;
+
+        
+    
+    
+            var marker_27875db6c84e71f6e7787bce96b4493b = L.marker(
+                [-34.5793964, -58.43898710000001],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_c7923e14efe93a09b34eeaaafd8c1a24 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_27875db6c84e71f6e7787bce96b4493b.setIcon(icon_c7923e14efe93a09b34eeaaafd8c1a24);
+        
+    
+        var popup_2d3f054f697e5a6c6bfcb65fcab9efc4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3235ed0df50399e41e60c7f098e3a1f4 = $(`<div id="html_3235ed0df50399e41e60c7f098e3a1f4" style="width: 100.0%; height: 100.0%;">Initiative Argentina<br>Rating: 5<br>Costa Rica 6012</div>`)[0];
+                popup_2d3f054f697e5a6c6bfcb65fcab9efc4.setContent(html_3235ed0df50399e41e60c7f098e3a1f4);
+            
+        
+
+        marker_27875db6c84e71f6e7787bce96b4493b.bindPopup(popup_2d3f054f697e5a6c6bfcb65fcab9efc4)
+        ;
+
+        
+    
+    
+            var marker_d1171b269cb588022ea988a1f1eaaad0 = L.marker(
+                [-34.5780655, -58.4265317],
+                {}
+            ).addTo(marker_cluster_66b806f769833e1af6f2ba02bfc453c4);
+        
+    
+            var icon_2d7965d2279b8665c2a1bca7d2bf6bcd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_d1171b269cb588022ea988a1f1eaaad0.setIcon(icon_2d7965d2279b8665c2a1bca7d2bf6bcd);
+        
+    
+        var popup_217e866c106e818d2369ff5a2ca88210 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_88e209cde4c4e63a39fcd37d32ce815e = $(`<div id="html_88e209cde4c4e63a39fcd37d32ce815e" style="width: 100.0%; height: 100.0%;">Palermo<br>Rating: None<br>Palermo</div>`)[0];
+                popup_217e866c106e818d2369ff5a2ca88210.setContent(html_88e209cde4c4e63a39fcd37d32ce815e);
+            
+        
+
+        marker_d1171b269cb588022ea988a1f1eaaad0.bindPopup(popup_217e866c106e818d2369ff5a2ca88210)
+        ;
+
+        
+    
+    
+            marker_cluster_66b806f769833e1af6f2ba02bfc453c4.addTo(map_43043a0c3875c4b269fa2bcd2e1af055);
+        
+</script>
+</html>

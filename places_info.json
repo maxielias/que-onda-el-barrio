@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Buenos Aires",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "vicinity": "Buenos Aires",
+    "rating": null,
+    "user_ratings_total": null,
+    "types": [
+      "locality",
+      "political"
+    ],
+    "business_status": null,
+    "opening_hours": null,
+    "photos": [
+      {
+        "height": 2340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101877320806615987419\">Romulo Soares Miranda</a>"
+        ],
+        "photo_reference": "AUGGfZk5Wufxxb-sloMjXjYJDtySEajpHVdoeHOzQmNpAMuEWZ8hQ3SUjDezMHDY0sVJ-MI1AV-RVGna9dVlRzVQO8VgryCIv5X2nFZfe-5Ps4eCd8NsvHzK6vgArXHVI__FDsEtR9H50xbLPRurErce7vRC4A-qgzcgZmySW0VvQl7XPkDn",
+        "width": 4160
+      }
+    ]
+  },
+  {
+    "name": "Atenea Apartments & Suites",
+    "latitude": -34.58222219999999,
+    "longitude": -58.44305559999999,
+    "vicinity": "Jos\u00e9 A. Cabrera 6054",
+    "rating": 3.3,
+    "user_ratings_total": 103,
+    "types": [
+      "real_estate_agency",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": null,
+    "photos": [
+      {
+        "height": 3006,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103548477867820081678\">Maxi</a>"
+        ],
+        "photo_reference": "AUGGfZnJLYnhWh-GA8P04NTkEsZLg22xOzRdUS9-hL5b07IcKqg77P-ywK7UGoLyUngKQAAWMfsFehNP08G-e5I1uJRSPExkBao5GgAO1tPW8zDNDVxjBUp6rWXnqbMXHP_YUgh9gasuyAGNO8B24JnyLG5uEuAS_gtuSuOqnWfydy3INek",
+        "width": 5344
+      }
+    ]
+  },
+  {
+    "name": "Home Hotel",
+    "latitude": -34.5821327,
+    "longitude": -58.4390678,
+    "vicinity": "Honduras 5860",
+    "rating": 4.5,
+    "user_ratings_total": 1043,
+    "types": [
+      "lodging",
+      "spa",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": true,
+    "photos": [
+      {
+        "height": 1350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102983458285482287219\">Home Hotel</a>"
+        ],
+        "photo_reference": "AUGGfZm9aX2lO10ECv3h_2dxM270C8fR0uanuW1c9OeqvNskrPnrQowQRMh_dil5r3DciVQ0JsjJXtsXB_lDvDLBerG15YOHR-Njpu92RrL-SOwA32xRvqvkiwF6mg_D9n3WkyjrlUSGZzYapp0W5dQmi-8ACwVGWkIMZ82ghBSDNLnBHbgW",
+        "width": 1080
+      }
+    ]
+  },
+  {
+    "name": "Fabric Sushi Palermo",
+    "latitude": -34.57948919999999,
+    "longitude": -58.4389844,
+    "vicinity": "Costa Rica 6000",
+    "rating": 4.5,
+    "user_ratings_total": 5992,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": true,
+    "photos": [
+      {
+        "height": 854,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102559351364900539655\">Eduardo Avila</a>"
+        ],
+        "photo_reference": "AUGGfZkGA3LsMwVa1IAOoJDNrEUIOFanDvpoqEZLujlz9nBTc0P3_gyyttpdsLJ4uixNFCXTagwi8pdx1zrvrDxaft4MflnUZ83jQnNfnM4MHt-TdAaKHcG8GjLbALUagRQ8O5gzHlMXCSvurxkB87EETvYiy6WvgtAs09hroKvV-n9dXjM",
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "name": "Luxury Duplex",
+    "latitude": -34.5818492,
+    "longitude": -58.44160559999999,
+    "vicinity": "Ar\u00e9valo 1596 1D",
+    "rating": null,
+    "user_ratings_total": null,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": null,
+    "photos": []
+  },
+  {
+    "name": "Belgrano Hostel",
+    "latitude": -34.5750257,
+    "longitude": -58.4399019,
+    "vicinity": "Santos Dumont 2570",
+    "rating": 3.8,
+    "user_ratings_total": 69,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": null,
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109469393868045352374\">Harold Chicharito</a>"
+        ],
+        "photo_reference": "AUGGfZkvCH_Lf9DXwWyzDSYGP79khnAn3WqwuKJWBJvlo9qvgg8Vnk9O9UcDF6r2Pxa-IXbtLpPWvYSO5rHgZVyMtTMIh0LVIkIFGWQNUuJ-BBcP9jbRa70Wi-5ZaczNtAnl7zqCC3VTSJw9s4HpYkK24zHt0FNnoXcR_oz3x5F0uBxCylYG",
+        "width": 3024
+      }
+    ]
+  },
+  {
+    "name": "Quartier Hollywood",
+    "latitude": -34.5773672,
+    "longitude": -58.4392644,
+    "vicinity": "Ciudad Autonoma de Buenos Aires Ciudad Aut\u00f3noma de Buenos Aires AR, Amen\u00e1bar 30, AIB",
+    "rating": 5,
+    "user_ratings_total": 6,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": true,
+    "photos": [
+      {
+        "height": 1102,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114548037972121081658\">Quartier Hollywood</a>"
+        ],
+        "photo_reference": "AUGGfZm1FU_yXcwm4xFOgIX4v-d_QoIstwD40jgkKFwdxwP_6ZrYd0IsPIng6lRf7KvZYBv7e7L2PukV-fojifrJHshD1b5PPqE0uee4iA-Do6CZ4Sg8g9IjDJOuSSYB5YehCQt0h9EcYw0CBahcd-TwKyF2B7D9lSJBLxbsdTUWKzkD6IX3",
+        "width": 1654
+      }
+    ]
+  },
+  {
+    "name": "Usos y Costumbres",
+    "latitude": -34.5797922,
+    "longitude": -58.4414921,
+    "vicinity": "Dorrego 1916",
+    "rating": null,
+    "user_ratings_total": null,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": null,
+    "photos": []
+  },
+  {
+    "name": "Sony Music Entertainment Argentina S.A. de C.V.",
+    "latitude": -34.5822953,
+    "longitude": -58.4425611,
+    "vicinity": "Jos\u00e9 A. Cabrera 6027",
+    "rating": 4.4,
+    "user_ratings_total": 635,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": false,
+    "photos": [
+      {
+        "height": 2240,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116124257313257031654\">Ricky_ Poloni</a>"
+        ],
+        "photo_reference": "AUGGfZkJzP7whLAzNgG9yhLe5E8WXSRi8ylLdpchzHl76nyaHcY1zsPhmq_lFy5hzme54zmSkvJNaYBW8qZ83BjhzwtCrcHVXjr0WHnwmW3gl8fUXGjVxZqEO1qxTmCDl6DpLrolD40L5Jjr7GZcuD3NG7CDe2s5VePdiK7NrSWKcwxZPi5X",
+        "width": 3968
+      }
+    ]
+  },
+  {
+    "name": "DIRECT MARKETING FOCUS S. A.",
+    "latitude": -34.5759648,
+    "longitude": -58.440771,
+    "vicinity": "Amen\u00e1bar 191",
+    "rating": 2.8,
+    "user_ratings_total": 46,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": false,
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111768534804888616360\">Juan Pablo Romero</a>"
+        ],
+        "photo_reference": "AUGGfZlClfkUrEI3VFxxCvE4VloteNJkrHXbnqf1QIeToNcimYY_ZLAhz0Cro1hKBgVthdTL0iSBHTbIsqhowEGGAE2JfuI3tJpPVbIO_MUY-XbPXRSAVCbxEzTjFm1yBBCRcFC-f8_x6KTxWdYaGudQUelJCa7DYnOu2i-6XBxu411m6Ubf",
+        "width": 1080
+      }
+    ]
+  },
+  {
+    "name": "Mercado de las Pulgas",
+    "latitude": -34.582201,
+    "longitude": -58.444201,
+    "vicinity": "Avenida Dorrego 1650, Buenos Aires",
+    "rating": 4.1,
+    "user_ratings_total": 13058,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102078768126429851559\">Claudia de los Angeles Molina</a>"
+        ],
+        "photo_reference": "AUGGfZkQeF69d6HKYzDtmqn4HHacwzjzA2VbtJRlFk7wAYiTFUHpFwbN25kvYmFk-Dbb9DnN_59dIhzPOuGusQ8Ufgqb0kQ9c1XNS0IZhJYevULpeZw-4XWsF56GmmEds1vNT3wD4KW3TQHwU5MTh-3glcxhR0FtD5Cz_4XmNlUc6It7SqzT",
+        "width": 4032
+      }
+    ]
+  },
+  {
+    "name": "La Despensa Ingredientes Creativos SRL",
+    "latitude": -34.57961,
+    "longitude": -58.4412446,
+    "vicinity": "Dorrego 1940",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "CLOSED_TEMPORARILY",
+    "opening_hours": null,
+    "photos": []
+  },
+  {
+    "name": "Escuela del Sol",
+    "latitude": -34.5750702,
+    "longitude": -58.4445993,
+    "vicinity": "Cr\u00e1mer 450",
+    "rating": 4,
+    "user_ratings_total": 49,
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": null,
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107147843651624452082\">Joaqu\u00edn Alonso</a>"
+        ],
+        "photo_reference": "AUGGfZnVYTOIhlxOcUYpp0VIy-sB0-wA9as7qHGlSJMPEXQ9fFKJkeDOcxKoUksjxfYZa59nGsvqKpdFvN1t8x7G4eZ5CPLUczQGf2SCI_YrLNwZMSY2sUFLKceuaM47tPCTcWuF7dMmQQqAeRuTG5Sozq_IoEV2HmHeThAoLsdNuGBxcVxH",
+        "width": 2448
+      }
+    ]
+  },
+  {
+    "name": "Sitio Buenos Aires",
+    "latitude": -34.5784541,
+    "longitude": -58.43907290000001,
+    "vicinity": "Dorrego 2141",
+    "rating": 4.5,
+    "user_ratings_total": 877,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": false,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100958867055099818761\">Dino Roy Prieto</a>"
+        ],
+        "photo_reference": "AUGGfZnGcFV2D94AzMl6EoJPlo_4tEV8u-KEJmVBwDjdEfQyvRotY58cAZUsNaRtNzr5YeeizTtRG_CWyEA9U9xAl7QeMRrIfGu5A3IuL3YN3_QkucV44eyLDoYBjazo-JvLUePsQHn3WP69Aw6qQP09mn10Ki-wK4H8i1LNnT03jgWEfeYp",
+        "width": 4032
+      }
+    ]
+  },
+  {
+    "name": "Ogilvy Argentina",
+    "latitude": -34.5795189,
+    "longitude": -58.4390506,
+    "vicinity": "Ar\u00e9valo 1880",
+    "rating": 4.3,
+    "user_ratings_total": 29,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": null,
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104808682992332467922\">Federico Andino</a>"
+        ],
+        "photo_reference": "AUGGfZmi8HpQ8L-igu4FXdDysWDgh9q0c6VYsO7hwBgDfo2N2rtWFZ6aQLRJsN_gXrRum4iUYRUD0n5Ob9X-N40qjXROHcRXwBWhyyvrZrhVXwBfuFwo86sJN_aBn01TG7zyzc4S95k2ieyMQvuwTng-iKLtHUY1_PJq0ozNiBHCxJeg1OCw",
+        "width": 4608
+      }
+    ]
+  },
+  {
+    "name": "Spare Rooms Buenos Aires - Habitaciones en alquiler en casas de familia y departamentos compartidos en Buenos Aires.",
+    "latitude": -34.57830839999999,
+    "longitude": -58.4394122,
+    "vicinity": "Dorrego 2133",
+    "rating": 4.3,
+    "user_ratings_total": 90,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": false,
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108559314435429712203\">Spare Rooms Buenos Aires - Habitaciones en alquiler en casas de familia y departamentos compartidos en Buenos Aires.</a>"
+        ],
+        "photo_reference": "AUGGfZn0BOtxjw9_sx9eZtVdrNKyHBUDr84ZtGLJ3c7Iv48k7N-uubH0QQNTqTvUBe6dcfCV3wvFjrkiPOMpCPFC9Pc_DHASCXclGNaTNXxn93WH5L5fdw2xXCd5VqwqMDJgNCf_MCSi9ZVPGQRMDqisjQNhD9R67fd1hFfJ7tca47PQCknV",
+        "width": 960
+      }
+    ]
+  },
+  {
+    "name": "CUOMA | Design Studios",
+    "latitude": -34.5790393,
+    "longitude": -58.44199380000001,
+    "vicinity": "4 piso loft O, Concepci\u00f3n Arenal 2978, Buenos Aires",
+    "rating": 4.7,
+    "user_ratings_total": 10,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": false,
+    "photos": [
+      {
+        "height": 1010,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103288314020109955279\">CUOMA Agencia Digital - Argentina</a>"
+        ],
+        "photo_reference": "AUGGfZmrrVwNIKOBwMNpySJLVPxXA0gKi30OSzy3HB82gJyLRRUI4bqciEqQAq_-lpmtzYmKmr1RHKS1QEF06-af5Cs9BAXQVa6s8fLFbyYJL7NLJYBuuQwJAmXoTyF-ApUKkIk-RnLQANkEuBTVGc60dk6tHNDtnIvsQuwN46MHbzieInvs",
+        "width": 2472
+      }
+    ]
+  },
+  {
+    "name": "Puro Glamour",
+    "latitude": -34.5770651,
+    "longitude": -58.4396672,
+    "vicinity": "Amen\u00e1bar 80",
+    "rating": 4.5,
+    "user_ratings_total": 129,
+    "types": [
+      "hair_care",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": true,
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109675204731929438272\">Puro Glamour</a>"
+        ],
+        "photo_reference": "AUGGfZlVI2N9Uu6dJh8pi_udT7UMTmPUQKDeV-IRz2q1_fQ2I49GermfGfAPkoDnDlTXHbxAXrUE0gO5q2qbxYnf8MHzNlLiQ4HoI4x6gkiqzeMt4QRMGs-9cufZkEUno4icSOiC14SynrIfVonz9b2CQpYPuhH-gOBn6NxDul1xt06e7JKi",
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "name": "Initiative Argentina",
+    "latitude": -34.5793964,
+    "longitude": -58.43898710000001,
+    "vicinity": "Costa Rica 6012",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "business_status": "OPERATIONAL",
+    "opening_hours": false,
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106912507351849218338\">Santiago Francisco Venneri</a>"
+        ],
+        "photo_reference": "AUGGfZmmZbWvmHDNJN9Cw0J2yHzLy_fGRHffiuvKPrQC4_rfkWr8XRq9waPupLe0yFVXuvr01pjKCie_X-EgaVKH0cnGg7QIciQwZ86I9yose6WsBvX3kMt6ZyjkmQryoORdgsFKdeVI6wH6EGo1umUsIm6g7h9UI0w7ydNODoDGRvJY1iPl",
+        "width": 3024
+      }
+    ]
+  },
+  {
+    "name": "Palermo",
+    "latitude": -34.5780655,
+    "longitude": -58.4265317,
+    "vicinity": "Palermo",
+    "rating": null,
+    "user_ratings_total": null,
+    "types": [
+      "sublocality_level_1",
+      "sublocality",
+      "political"
+    ],
+    "business_status": null,
+    "opening_hours": null,
+    "photos": [
+      {
+        "height": 2340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101877320806615987419\">Romulo Soares Miranda</a>"
+        ],
+        "photo_reference": "AUGGfZnlQ2eQAB5NkHiP9VsjLeKpEEMXFl-dzjRIHgy5BTB6AnWLM2RtyjKrALR97UHOkoJsWsR0Fr5GIpLu2IbxyECT4hNSD4t4eZPTJkgZIuyBpFxxVCfL9aRWALT1t_sItHFgVdUPzdT6z82bN6lGSFZsIAaBSMh9nTn-eGz9J3exirV8",
+        "width": 4160
+      }
+    ]
+  }
+]
